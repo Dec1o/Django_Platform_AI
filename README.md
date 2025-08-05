@@ -1,4 +1,5 @@
-# Django_Platform_AI - Documentação
+Plataforma Django MVT + Micro serviços, desenvolvido por: Décio Carvalho Faria.
+# Django_Platform_AI - Documentação:
 
 ## Visão Geral do Projeto 🚀
 O **Django_Platform_AI** é uma aplicação web desenvolvida com o framework Django, que integra funcionalidades de inteligência artificial para aprimorar a interação com os usuários.
@@ -84,13 +85,3 @@ Cada aplicativo implementa operações CRUD para gerenciar suas respectivas enti
 - **Usuários e Empresas**: Um usuário pode estar associado a uma ou mais empresas (Muitos-para-Muitos).
 - **Arquivos e Grupos**: Um arquivo pode pertencer a um grupo específico (Um-para-Muitos).
 - **Chats e Usuários**: Cada interação de chat está vinculada a um usuário (Muitos-para-Um).
-
-
-
-## Considerações Finais 🎯
-O **Django_Platform_AI** é uma plataforma robusta que integra IA e funcionalidades de gerenciamento de arquivos, chats e usuários de forma modular.
-
-
-
-Para mais detalhes, consulte o repositório oficial no GitHub: [Django_Platform_AI](https://github.com/Dec1o/Django_Platform_AI).
-
