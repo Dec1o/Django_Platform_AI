@@ -12,6 +12,9 @@ O **Django_Platform_AI** é uma aplicação web desenvolvida com o framework Dja
 - **Selenium e Flask**: Utilizados em integrações e automação.
 - **LangChain e OpenAI**: Ferramentas para processamento de linguagem natural (NLP) e IA.
 
+## Database & ORM 🔗
+Django's ORM is used to manage CRUD operations, maintaining data integrity and implementing relationships between entities. Queries are optimized to ensure efficiency, and the data model follows best practices for relational databases.
+
 ## Guia de Instalação e Execução ⚙️
 
 ### 1. Clonar o Repositório
