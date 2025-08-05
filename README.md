@@ -1,4 +1,4 @@
-Plataforma Django MVT + Micro serviços, desenvolvido por: Décio Carvalho Faria.
+Plataforma Django MVT + IA Micro serviços, desenvolvido por: Décio Carvalho Faria.
 # Django_Platform_AI - Documentação:
 
 ## Visão Geral do Projeto 🚀
