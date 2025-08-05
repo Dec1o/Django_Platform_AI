@@ -73,16 +73,24 @@ A aplicação estará disponível em [http://127.0.0.1:8000/](http://127.0.0.1:8
 - `PUT /files/{id}/`: Atualiza informações de um arquivo.
 - `DELETE /files/{id}/`: Remove um arquivo.
 
+
+
 ## Estrutura do Banco de Dados e Relacionamentos 📊
 Cada aplicativo implementa operações CRUD para gerenciar suas respectivas entidades. As relações no banco de dados são estabelecidas utilizando os modelos do Django (`models.py`).
+
+
 
 ### Exemplo de Relacionamentos
 - **Usuários e Empresas**: Um usuário pode estar associado a uma ou mais empresas (Muitos-para-Muitos).
 - **Arquivos e Grupos**: Um arquivo pode pertencer a um grupo específico (Um-para-Muitos).
 - **Chats e Usuários**: Cada interação de chat está vinculada a um usuário (Muitos-para-Um).
 
+
+
 ## Considerações Finais 🎯
 O **Django_Platform_AI** é uma plataforma robusta que integra IA e funcionalidades de gerenciamento de arquivos, chats e usuários de forma modular.
+
+
 
 Para mais detalhes, consulte o repositório oficial no GitHub: [Django_Platform_AI](https://github.com/Dec1o/Django_Platform_AI).
 
